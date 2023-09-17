@@ -158,3 +158,14 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.telebot/pyvenv.cfg
+.telebot/Scripts/activate
+.telebot/Scripts/activate.bat
+.telebot/Scripts/Activate.ps1
+.telebot/Scripts/deactivate.bat
+.telebot/Scripts/normalizer.exe
+.telebot/Scripts/pip.exe
+.telebot/Scripts/pip3.10.exe
+.telebot/Scripts/pip3.exe
+.telebot/Scripts/python.exe
+.telebot/Scripts/pythonw.exe
